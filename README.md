@@ -1,2 +1,3 @@
-# turnt-computing-machine
-Website for shockcycle.com
+# turnt-computing machine
+
+Source code for the website that I have to make for my business ethics class...

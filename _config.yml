@@ -1,0 +1,22 @@
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Shock Cycle
+tagline:          
+url:              http://dankmau5.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Shock Cycle
+  url:            https://twitter.com/shockcycle
+  email:          
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/dankmau5/dankmau5.github.io
+  
+markdown:   redcarpet
+highligher: rouge
